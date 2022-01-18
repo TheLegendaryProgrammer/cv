@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Harcosok klubja",
+        "time": "2021-05-01 19:00",
+        "porturl": "https:\/\/port.hu\/adatlap\/film\/tv\/harcosok-klubja-fight-club\/movie-9635",
+        "posterurl": "https:\/\/media.port.hu\/images\/000\/770\/143.jpg",
+        "description": "Amerika nagyv\u00e1rosainak pinc\u00e9iben egy titkos szervezet m\u0171k\u00f6dik: ha egy \u00e9jjel az utca \u00f6sszes nyilv\u00e1nos telefonja \u00f6sszet\u00f6rik, \u0151k j\u00e1rtak ott; ha egy k\u00f6zt\u00e9ri szobor \u00f3ri\u00e1s f\u00e9mg\u00f6mbje legurul talapzat\u00e1r\u00f3l, \u00e9s sz\u00e9trombol egy gyors\u00e9tkezd\u00e9t, az az \u0151 m\u0171v\u00fck; ha egy eleg\u00e1ns bank parkol\u00f3j\u00e1nak \u00f6sszes aut\u00f3j\u00e1t rettent\u0151en \u00f6sszerond\u00edtj\u00e1k a galambok - az sem v\u00e9letlen. Vigy\u00e1znak a leveleinkre, \u00e1tveszik telefon\u00fczeneteinket, k\u00eds\u00e9rnek az utc\u00e1n: \u00e9s m\u00e9g csak k\u00e9sz\u00fclnek a v\u00e9gs\u0151 dob\u00e1sra: a nagy bummra... ",
+        "leanguage": "Magyar",
+        "hall": "Nagy",
+        "spaces": 23,
+        "price": 2000,
+        "avaible": false
+    },
+    {
+        "id": 2,
+        "title": "Harcosok klubja",
+        "time": "2021-05-01 23:00",
+        "porturl": "https:\/\/port.hu\/adatlap\/film\/tv\/harcosok-klubja-fight-club\/movie-9635",
+        "posterurl": "https:\/\/media.port.hu\/images\/000\/770\/143.jpg",
+        "description": "Amerika nagyv\u00e1rosainak pinc\u00e9iben egy titkos szervezet m\u0171k\u00f6dik: ha egy \u00e9jjel az utca \u00f6sszes nyilv\u00e1nos telefonja \u00f6sszet\u00f6rik, \u0151k j\u00e1rtak ott; ha egy k\u00f6zt\u00e9ri szobor \u00f3ri\u00e1s f\u00e9mg\u00f6mbje legurul talapzat\u00e1r\u00f3l, \u00e9s sz\u00e9trombol egy gyors\u00e9tkezd\u00e9t, az az \u0151 m\u0171v\u00fck; ha egy eleg\u00e1ns bank parkol\u00f3j\u00e1nak \u00f6sszes aut\u00f3j\u00e1t rettent\u0151en \u00f6sszerond\u00edtj\u00e1k a galambok - az sem v\u00e9letlen. Vigy\u00e1znak a leveleinkre, \u00e1tveszik telefon\u00fczeneteinket, k\u00eds\u00e9rnek az utc\u00e1n: \u00e9s m\u00e9g csak k\u00e9sz\u00fclnek a v\u00e9gs\u0151 dob\u00e1sra: a nagy bummra... ",
+        "leanguage": "Magyar",
+        "hall": "Nagy",
+        "spaces": 0,
+        "price": 2000,
+        "avaible": false
+    },
+    {
+        "id": 3,
+        "title": "Harcosok klubja",
+        "time": "2021-06-25 19:00",
+        "porturl": "https:\/\/port.hu\/adatlap\/film\/tv\/harcosok-klubja-fight-club\/movie-9635",
+        "posterurl": "https:\/\/media.port.hu\/images\/000\/770\/143.jpg",
+        "description": "Amerika nagyv\u00e1rosainak pinc\u00e9iben egy titkos szervezet m\u0171k\u00f6dik: ha egy \u00e9jjel az utca \u00f6sszes nyilv\u00e1nos telefonja \u00f6sszet\u00f6rik, \u0151k j\u00e1rtak ott; ha egy k\u00f6zt\u00e9ri szobor \u00f3ri\u00e1s f\u00e9mg\u00f6mbje legurul talapzat\u00e1r\u00f3l, \u00e9s sz\u00e9trombol egy gyors\u00e9tkezd\u00e9t, az az \u0151 m\u0171v\u00fck; ha egy eleg\u00e1ns bank parkol\u00f3j\u00e1nak \u00f6sszes aut\u00f3j\u00e1t rettent\u0151en \u00f6sszerond\u00edtj\u00e1k a galambok - az sem v\u00e9letlen. Vigy\u00e1znak a leveleinkre, \u00e1tveszik telefon\u00fczeneteinket, k\u00eds\u00e9rnek az utc\u00e1n: \u00e9s m\u00e9g csak k\u00e9sz\u00fclnek a v\u00e9gs\u0151 dob\u00e1sra: a nagy bummra... ",
+        "leanguage": "Magyar",
+        "hall": "Nagy",
+        "spaces": 23,
+        "price": 2000,
+        "avaible": true
+    },
+    {
+        "id": 4,
+        "title": "Gy\u0171r\u0171k ura - A gy\u0171r\u0171 sz\u00f6vets\u00e9ge",
+        "time": "2021-07-01 19:00",
+        "porturl": "https:\/\/port.hu\/adatlap\/film\/tv\/a-gyuruk-ura-a-gyuru-szovetsege-the-lord-of-the-rings-the-fellowship-of-the-ring\/movie-37577",
+        "posterurl": "https:\/\/sm.ign.com\/t\/ign_hu\/screenshot\/default\/maxresdefault_mpux.h720.jpg",
+        "description": "Frod\u00f3 (Elijah Wood), az ifj\u00fa hobbit egy gy\u0171r\u0171t kap Bilb\u00f3t\u00f3l, amir\u0151l kider\u00fcl, hogy az Egy Gy\u0171r\u0171, mellyel a S\u00f6t\u00e9ts\u00e9g Ura rabszolgasorba tasz\u00edthatja K\u00f6z\u00e9pf\u00f6lde n\u00e9peit. Gandalf (Ian McKellen) V\u00f6lgyzugolyba k\u00fcldi Frod\u00f3t, ahol a t\u00fcnd\u00e9k legb\u00f6lcsebb vezet\u0151je, Elrond d\u00f6nt a gy\u0171r\u0171 sors\u00e1r\u00f3l. Nincs m\u00e1s lehet\u0151s\u00e9g, a gy\u0171r\u0171t el kell puszt\u00edtani Mordorban, a V\u00e9gzet-katlanban. A szabadn\u00e9pek tan\u00e1cs\u00e1n meg\u00fajul a Sz\u00f6vets\u00e9g, \u00e9s Gandalf vezet\u00e9s\u00e9vel Frod\u00f3 \u00e9s t\u00e1rsai, a d\u00fanad\u00e1n Aragorn (Viggo Mortensen), a t\u00fcnde Legolas (Orlando Bloom), Gimli, a t\u00f6rp (John Rhys-Davies), \u00e9s Boromir, az emberek k\u00e9pviselet\u00e9ben, nekiv\u00e1gnak a rem\u00e9nytelen k\u00fcldet\u00e9snek. A j\u00f6v\u0151 att\u00f3l f\u00fcgg, hogyan alakul a sz\u00f6vets\u00e9g sorsa. ",
+        "leanguage": "Magyar",
+        "hall": "Nagy",
+        "spaces": 100,
+        "price": 2002,
+        "avaible": true
+    },
+    {
+        "id": 5,
+        "title": "Gy\u0171r\u0171k ura - A gy\u0171r\u0171 sz\u00f6vets\u00e9ge",
+        "time": "2021-07-02 19:00",
+        "porturl": "https:\/\/port.hu\/adatlap\/film\/tv\/a-gyuruk-ura-a-gyuru-szovetsege-the-lord-of-the-rings-the-fellowship-of-the-ring\/movie-37577",
+        "posterurl": "https:\/\/sm.ign.com\/t\/ign_hu\/screenshot\/default\/maxresdefault_mpux.h720.jpg",
+        "description": "Frod\u00f3 (Elijah Wood), az ifj\u00fa hobbit egy gy\u0171r\u0171t kap Bilb\u00f3t\u00f3l, amir\u0151l kider\u00fcl, hogy az Egy Gy\u0171r\u0171, mellyel a S\u00f6t\u00e9ts\u00e9g Ura rabszolgasorba tasz\u00edthatja K\u00f6z\u00e9pf\u00f6lde n\u00e9peit. Gandalf (Ian McKellen) V\u00f6lgyzugolyba k\u00fcldi Frod\u00f3t, ahol a t\u00fcnd\u00e9k legb\u00f6lcsebb vezet\u0151je, Elrond d\u00f6nt a gy\u0171r\u0171 sors\u00e1r\u00f3l. Nincs m\u00e1s lehet\u0151s\u00e9g, a gy\u0171r\u0171t el kell puszt\u00edtani Mordorban, a V\u00e9gzet-katlanban. A szabadn\u00e9pek tan\u00e1cs\u00e1n meg\u00fajul a Sz\u00f6vets\u00e9g, \u00e9s Gandalf vezet\u00e9s\u00e9vel Frod\u00f3 \u00e9s t\u00e1rsai, a d\u00fanad\u00e1n Aragorn (Viggo Mortensen), a t\u00fcnde Legolas (Orlando Bloom), Gimli, a t\u00f6rp (John Rhys-Davies), \u00e9s Boromir, az emberek k\u00e9pviselet\u00e9ben, nekiv\u00e1gnak a rem\u00e9nytelen k\u00fcldet\u00e9snek. A j\u00f6v\u0151 att\u00f3l f\u00fcgg, hogyan alakul a sz\u00f6vets\u00e9g sorsa. ",
+        "leanguage": "Magyar",
+        "hall": "Nagy",
+        "spaces": 97,
+        "price": 2002,
+        "avaible": true
+    },
+    {
+        "id": 6,
+        "title": "A Gy\u0171r\u0171k Ura - A k\u00e9t torony",
+        "time": "2021-07-05 19:30",
+        "porturl": "https:\/\/port.hu\/adatlap\/film\/tv\/a-gyuruk-ura-a-ket-torony-the-lord-of-the-rings-the-two-towers\/movie-51664",
+        "posterurl": "https:\/\/assets.mmsrg.com\/isr\/166325\/c1\/-\/pixelboxx-mss-57237775\/mobile_786_587_png\/A-Gy%C5%B1r%C5%B1k-Ura---A-k%C3%A9t-torony---mozis-v%C3%A1ltozat-%28DVD%29",
+        "description": "Hamarosan eld\u0151l K\u00f6z\u00e9pf\u00f6lde sorsa: a gonosz ereje egyre n\u0151, mert sz\u00f6vets\u00e9get k\u00f6t\u00f6tt a k\u00e9t torony: Barad-d\u00far, Szauron, a s\u00f6t\u00e9t \u00far v\u00e1ra \u00e9s Orthanc, amely Szarum\u00e1n, az \u00e1rul\u00f3 m\u00e1gus er\u0151dje. Frod\u00f3, a Gy\u0171r\u0171hordoz\u00f3 \u00e9s h\u0171 bar\u00e1tja, Samu Mordor f\u00f6ldje fel\u00e9 tart, hogy a t\u0171zbe haj\u00edtsa terh\u00e9t: \u00e1m egy \u00fajabb vesz\u00e9llyel kell szemben\u00e9zni\u00fck - felbukkan Gollam, aki mag\u00e1nak k\u00f6veteli a kincset. Ek\u00f6zben a sz\u00f6vets\u00e9g m\u00e9g \u00e9l\u0151 tagjai a K\u00f3sza vezet\u00e9s\u00e9vel \u00fajabb harcokba keverednek. Rohan lovasai mellett k\u00fczdenek \u00e9s k\u00fcl\u00f6n\u00f6s sz\u00f6vets\u00e9gesekre lelnek: az Entekre. \u00c1rny\u00e9k vet\u00fcl a vil\u00e1gra. A S\u00f6t\u00e9t \u00dar hadseregei Gondor fel\u00e9 vonulnak. Kezdet\u00e9t veszi a Gy\u0171r\u0171h\u00e1bor\u00fa.",
+        "leanguage": "magyar",
+        "hall": "Nagy",
+        "spaces": 145,
+        "price": 2000,
+        "avaible": true
+    }
+]
