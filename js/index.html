@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect-4</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+    <div class='menu'>
+        <h1>Connect-Four</h1>
+        <button id="rules">Játékszabály</button><br>
+        <span id='leiras'></span>
+        <label for="">
+            <p class='rules'>
+            </p>
+        </label>
+
+        <input type="text" id='player1' value='Player1'> <input type="text" id='player2' value='Player2'><br>
+        <button type="submit" id='save_names'>Nevek mentése</button><br>
+        <button id='loading'>Félbehagyott játék folytatása</button><br>
+        <button id='new_game'>Start</button><br>
+        <button id='single'>Single player start</button>
+        <button id='save'>Mentés</button>
+        <div id='game_info'></div><br>
+        <div id='game'>
+
+            <table id='game_board' class='game'></table>
+
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

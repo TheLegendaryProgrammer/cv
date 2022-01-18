@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://store-images.s-microsoft.com/image/apps.41929.14246448385562777.7795b656-4cc6-43e1-897f-ecca74691263.ce6424bf-ec09-434a-9a0d-6d9507621cfa?mode=scale&q=90&h=1080&w=1920);
+  }
+
+.board_square {
+    width: 85px;
+    height: 85px;
+    background: white;
+    border: 1px solid black;
+    border-radius:  50%;
+}
+.piece {
+    width: 85px;
+    height: 85px;
+    display:block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.player2 {
+    background-color: yellow;	
+}
+
+.player1 {
+    background-color: red;
+}
+.player0 {
+    background-color: white;
+}
+
+
+
+.game{
+    visibility: hidden;
+    top: 4rem;
+    left: 50%;
+    background: rgb(57, 57, 243);
+    border: 1px solid black;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.rules{
+    visibility: hidden;
+}
+
