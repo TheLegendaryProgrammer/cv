@@ -1,0 +1,13 @@
+﻿@model UserFavourite
+
+@{
+    ViewBag.Title = "Kedvenc hozzáadás";
+}
+
+@using (Html.BeginForm("AddFavourite", "Favorites", FormMethod.Post))
+{
+    @Html.Hidden("channelId", Model.ChannelId)
+    @Html.Hidden("userId", Model.UserId)
+    @Html.TextBoxFor(d => d.Name)
+    <button type="submit">Nézzük</button>
+}  

@@ -1,0 +1,46 @@
+﻿@model MusorApp3.Models.User;
+
+@{
+    ViewBag.Title = "Registration";
+}
+
+@using (Html.BeginForm("Create", "Registration", FormMethod.Post))
+{
+    <fieldset>
+        <legend>Musor app Registration Page</legend>
+
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        @if (@ViewBag.Message != null)
+        {
+            <div style="border: 1px solid red">
+                @ViewBag.Message
+            </div>
+        }
+        <table>
+            <tr>
+                <td>@Html.LabelFor(a => a.Username)</td>
+                <td>@Html.TextBoxFor(a => a.Username)</td>
+                <td>@Html.ValidationMessageFor(a => a.Username)</td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(a => a.Password)
+                </td>
+                <td>
+                    @Html.PasswordFor(a => a.Password)
+                </td>
+                <td>
+                    @Html.ValidationMessageFor(a => a.Password)
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Registrate" />
+                </td>
+                <td></td>
+            </tr>
+        </table>
+    </fieldset>
+}  

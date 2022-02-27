@@ -1,0 +1,36 @@
+﻿@model List<Channel>
+@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+    <table>
+        <tr>
+            <th>
+                Csatornák
+            </th>
+        </tr>
+       
+        @foreach (var item in Model)
+        {
+    <tr>
+        <td width="300px" height="250px"> <a asp-controller="ShowPage" asp-action="ShowPage" asp-route-channelId="@item.Id"><img src="@item.PictureLink" width="100%" height="100%" /> </a></td>
+        <td> <a asp-controller="ShowPage" asp-action="ShowPage" asp-route-channelId="@item.Id"><p>@item.Name</p> </a> </td>
+        
+             @if (@Context.Session.GetInt32("SessionId").HasValue)
+             {
+                <td> <a href="/Favorites/Create?channelId=@item.Id&userid=@Context.Session.GetInt32("SessionId")">Hozzáadás a kedvencekhez</a></td>
+             }
+        
+    </tr>
+        }
+    </table>
+
+
+</div>

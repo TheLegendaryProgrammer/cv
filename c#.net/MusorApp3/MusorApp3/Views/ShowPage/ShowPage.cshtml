@@ -1,0 +1,61 @@
+﻿@model MusorApp3.Models.MVC.SHOWPAGE
+
+@{
+    var teszt = Model;
+}
+
+
+
+
+
+@using (Html.BeginForm("SelectChannelCategory", "ShowPage", FormMethod.Post))
+{
+    @Html.Hidden("channelId", Model.channelId)
+    <select Name="categoryId" id="categoryId">
+    <option value="0">>All</option>
+    <option value="1">Adventure</option>
+    <option value="2">Thriller</option>
+    <option value="3">Cartoon</option>
+    <option value="4">Drama</option>
+    <option value="5">Action</option>
+    <option value="6">Romantic</option>
+    <option value="7">Scifi</option>
+    <option value="8">Fantasy</option>
+    <option value="9">Horror</option>
+    <option value="10">Documentary</option>
+    <option value="11">ForChildrens</option>
+    <option value="12">News</option>
+    <option value="13">Sports</option>
+    <option value="14">Others</option>
+
+</select>
+<button type="submit">Nézzük</button>
+}
+
+
+
+
+@foreach (var item in Model.tvPrograms)
+{
+
+    <p>@item.Title</p>
+    <p>@item.StartTime</p>
+
+}
+
+@*<script>
+        $(document).ready(function () {
+            $("#categoryId").change(function () {
+                debugger;
+                $.ajax({
+
+                    url: '/ShowPage/ShowPage?channelId=' + ViewBag.ChannelID + '&categoryId=' + { keyname: $('#categoryId option:selected').val() },
+                    type: 'GET',
+
+
+                });
+            });
+        });
+
+
+    </script>*@
